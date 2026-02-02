@@ -4,7 +4,7 @@
 
 A research group member should type their name below.
 
-- **Researcher Name**: `Add Your Name Here`
+- **Researcher Name**: `Anupraj Guragain`
 
 ## Reading Syllabus Pledge
 
@@ -50,7 +50,7 @@ A research group member should type the title of their junior seminar research
 project into the following fenced code block.
 
 ```text
-Add the Title of Your Junior Seminar Research Project
+Trustable: An explainable ML for trust classification
 ```
 
 ## Research Group Contributions
