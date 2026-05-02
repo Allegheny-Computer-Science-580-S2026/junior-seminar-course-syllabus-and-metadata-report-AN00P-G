@@ -71,16 +71,6 @@ provides personalized exercise feedback through user-inputted information
 - **Impact**: [If applicable, note how your feedback influenced their work]
 - **Reference**: [GitHub repository's issue tracker](https://github.com/Allegheny-Computer-Science-600610-25-26/senior-comprehensive-project-journal-and-chapters-EvanNelson04/issues/8)
 
-Example entries:
-
-- **Student Name One / Machine Learning Bias Detection**: Suggested examining
-  fairness metrics beyond accuracy; Jane incorporated demographic parity analysis
-  into her evaluation framework
-- **Student Name Two / Distributed Caching System**: Asked about handling
-  network partitions during demo; led to important discussion about consistency
-  models
-- **Student Name Three / Graph Algorithm Visualization**: Recommended adding
-  real-time performance comparison; Alex added this feature in Week 12
 
 ### Technical Discussions and Problem-Solving
 
@@ -91,15 +81,6 @@ discussions or helped fellow researchers troubleshoot issues:
 - **Your Contribution**: [What you shared, suggested, or helped debug]
 - **Outcome**: [How it helped advance the research]
 
-Example entries:
-
-- **Docker Containerization Issues**: Shared my Dockerfile configuration and
-  helped three researchers set up their development environments
-- **Statistical Testing Discussion**: Explained paired t-tests vs. Wilcoxon
-  tests; helped multiple researchers choose appropriate tests for their
-  experiments
-- **GitHub Actions Debugging**: Collaborated with two researchers to fix CI/CD
-  pipeline failures; documented solution in group Slack channel
 
 ### Research Group Meeting Participation
 
@@ -109,16 +90,7 @@ Note particularly meaningful contributions during research group meetings:
 - **Contribution**: [Question asked, insight shared, or resource provided]
 - **Value to Group**: [How it benefited the research community]
 
-Example entries:
 
-- **Week 4 / Research Ethics Discussion**: Raised important questions about
-  data privacy in web scraping projects; led to productive discussion about
-  `robots.txt` and ethical boundaries
-- **Week 9 / Writing Workshop**: Shared effective strategies for writing
-  related work sections; multiple researchers found it helpful because it
-  clarified the way they should structure the second chapter of their report
-- **Week 11 / Results Visualization**: Demonstrated `matplotlib` customization
-  techniques; several researchers adopted similar approaches
 
 ### Research Resources Shared
 
@@ -129,18 +101,18 @@ with the research group that helped advance collective knowledge:
 - **Shared With**: [Individual researcher or entire group]
 - **Purpose**: [Why you shared it and how it was relevant]
 
-Example entries:
-
-- **"Testing in Production" Paper**: Shared with entire group during Week 7;
-  relevant for multiple systems research projects
-- **Plotly Visualization Tutorial**: Shared with four researchers working on
-  data-heavy projects; enabled interactive visualizations
-- **arXiv Paper on Neural Architecture Search**: Shared with Sarah Lee for her
-  AutoML project; became a key reference in her related work chapter
-
 ## Additional Project Information
 
 Please use this section to record any other relevant information about your
 Junior Seminar research project, your research process, or any other
 information that your research adviser or the research group coordinator deems
 important for you to document.
+
+There is the use of AI agents for this project
+
+### Ways AI have been used
+
+- **Test code generation**: I have used Claude AI agent Sonnet 4.6 for generating code for analysis done in this project
+- **Optimization of code**: I have used various diffrent AI agent from claude's, OpenAI, Gemini's and other for optimization of code and for the fix of parts in my code. Mostly used as **Explain** and **Fix** option in the inline editor.
+- **Report**: I have used AI agents mentioned above to fix gramatical errors and bumping up the word count.
+- **Brainstroming**: I have used various AI agents in many instances for brainstroming such as giving summary of other papers and journals, explaining certain code and use of codes for various tools and learning about and uses of various tools I have used. 
